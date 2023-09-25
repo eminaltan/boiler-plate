@@ -5,7 +5,7 @@
 ♿: Accessibility
 ❗: Attention
 ⚠️: Warning
-🛡️:Security concern
+🛡️: Security concern
 🔑: Answers
 ➖: Diff
 ❓: Question
@@ -13,3 +13,4 @@
 ✔️: Acceptable
 📆: TODO
 🌏: SEO
+📌: Pinned items
