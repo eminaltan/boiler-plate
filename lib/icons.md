@@ -14,3 +14,4 @@
 📆: TODO
 🌏: SEO
 📌: Pinned items
+🖱️: Link
