@@ -15,3 +15,4 @@
 🌏: SEO
 📌: Pinned items
 🖱️: Link
+ℹ️: Information
